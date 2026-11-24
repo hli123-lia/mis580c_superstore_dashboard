@@ -1,0 +1,11 @@
+# Web Application Framework
+dash>=2.14.0
+
+# Interactive Charting
+plotly>=5.18.0
+
+# Data Analysis & Manipulation
+pandas>=2.0.0
+
+# WSGI Production Server (for deployment)
+gunicorn>=21.2.0
